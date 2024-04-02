@@ -2,7 +2,7 @@
 
 #### 2024/04/02
 
-#### By *Maxwel Omwoyo
+#### By: Maxwel Omwoyo
 
 ## Description
 ## Challenge 1: Student Grade Generator
